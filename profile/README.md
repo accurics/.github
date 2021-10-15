@@ -22,7 +22,7 @@ Welcome to Accurics on GitHub</h3>
 </p>
 
 <h3 align="center"><a href="https://start.accurics.com/WR-2020-04-0415-Demo-Request_LP-Reg.html"> SCHEDULE A LIVE PRODUCT DEMO  </a></h3>
-<h3 align="center">Contribute to Accuric's open source projects</h3>
+<h3 align="center">Contribute to Accurics open source projects</h3>
 
 <p align="center">
 
