@@ -2,7 +2,7 @@
 
 <h2 align="center">
 Accurics is now Tenable.cs</h3>
-<p align="center">Find our open source repositories at <a href=="https://github.com/tenable/terrascan">github.com/tenable</a></p>
+<p align="center">Find our open source repositories at <a href="https://github.com/tenable"> github.com/tenable </a></p>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/accurics" alt="profile views"> •
