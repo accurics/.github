@@ -2,6 +2,8 @@
 
 <h2 align="center">
 Accurics is now Tenable.cs</h3>
+<p align="center">Find our open source repositories at <a href=="https://github.com/tenable/terrascan">github.com/tenable</a></p>
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/accurics" alt="profile views"> •
   <a href="https://twitter.com/intent/follow?screen_name=TenableSecurity&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/TenableSecurity?label=%40TenableSecurity&style=social"></a>  •
@@ -25,8 +27,6 @@ Accurics is now Tenable.cs</h3>
 
 <h3 align="center"><a href="https://www.tenable.com/products/tenable-cs/evaluate"> SCHEDULE A LIVE PRODUCT DEMO  </a></h3>
 <h3 align="center">Contribute to Tenable.cs open source projects</h3>
-
-<h4 align="center"><a href=="https://github.com/tenable/terrascan">github.com/tenable</a></h3>
 
 <p align="center">
 
