@@ -2,7 +2,7 @@
 
 <h2 align="center">
 Accurics is now Tenable.cs</h3>
-<p align="center">Find our open source repositories at <a href="https://github.com/tenable"> github.com/tenable </a></p>
+<p align="center">Find our open source repositories at <a href="https://github.com/tenable"> github.com/tenable </a> 🌟 Give a Gitstar </p>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/accurics" alt="profile views"> •
@@ -11,7 +11,14 @@ Accurics is now Tenable.cs</h3>
    <a href="https://runterrascan.io"> Terrascan Website</a> •
 
 </p>
-<p align="center"> <a href="https://discord.gg/ScUPMzyG3n"> Join the Tenable Community On Discord </a> • </p>
+
+<p align="center">
+    Join Tenable Community on Discord 
+<br/>
+<a href="https://discord.gg/59vwVuGyGr">
+    <img src="http://fig.io/icons/discord-logo-square.png" width="80px" height="80px" />
+</a>
+</p>
 
 
 
@@ -36,8 +43,8 @@ Accurics is now Tenable.cs</h3>
 </p>
 
 
-
-[![Linkedin Badge](https://img.shields.io/badge/tenable-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tenableinc/mycompany/)](https://www.linkedin.com/company/tenableinc/mycompany/)
+ 
+[![Linkedin Badge](https://img.shields.io/badge/tenable-mycompany/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/company/tenableinc/)](https://www.linkedin.com/company/tenableinc/mycompany/)
 [![Instagram Badge](https://img.shields.io/badge/tenable-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tenablesecurity/)](https://www.instagram.com/tenablesecurity/)
 [![Youtube Badge](https://img.shields.io/badge/-tenable-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/user/tenablesecurity)](https://www.youtube.com/user/tenablesecurity)
 
